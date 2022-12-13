@@ -1,0 +1,955 @@
+﻿#############
+Translation by: Mudresistor on Curse.
+youtube/c/ArchmageEternal
+#############
+
+
+
+#############
+Creative Tabs
+#############
+
+itemGroup.netherliciousBlocks=Адскости: Блоки
+itemGroup.netherliciousDecoration=Адскости: Декор
+itemGroup.netherliciousTechnical=Адскости: Механизмы
+itemGroup.netherliciousItems=Адскости: Предметы
+itemGroup.netherliciousFood=Адскости: Еда
+itemGroup.netherliciousArmorTools=Адскости: Броня и Инструменты
+
+
+#############
+Blocks
+#############
+
+tile.Nether_Gravel_default.name=Тёмный гравий
+tile.SoulSandstone_default.name=Песчаник душ
+tile.SoulSandstone_cut.name=Резной песчаник душ
+tile.SoulSandstone_chiseled.name=Гравированный песчаник душ
+tile.SoulSandstone_smooth.name=Гладкий песчаник душ
+
+tile.SoulSandstoneSingleSlab.defaultSlab.name=Плита из песчаника душ
+tile.SoulSandstoneSingleSlab.smoothSlab.name=Плита из гладкого песчаника душ
+tile.SoulSandstoneDoubleSlab.defaultSlab.name=Двойная плита из песчаника душ
+tile.SoulSandstoneDoubleSlab.smoothSlab.name=Двойная плита из гладкого песчаника душ
+
+tile.SoulSandstoneStairs.name=Ступеньки из песчаника душ
+tile.SmoothSoulSandstoneStairs.name=Ступеньки из гладкого песчаника душ
+tile.SoulSandstoneWall_default.name=Ограда из песчаника душ
+tile.SoulSandstoneWall_smooth.name=Ограда из гладкого песчаника душ
+
+tile.FullWood_crimson.name=Багряные гифы
+tile.FullWood_stripped_crimson.name=Ободранные багряные гифы
+tile.FullWood_warped.name=Искажённые гифы
+tile.FullWood_stripped_warped.name=Ободранные искажённые гифы
+
+tile.CrimsonNylium_default.name=Багряный нилий
+tile.WarpedNylium_default.name=Искажённый нилий
+tile.SoulSoil_default.name=Земля душ
+tile.Basalt_default.name=Адский базальт
+tile.Basalt_polished.name=Полированный адский базальт
+tile.Blackstone_default.name=Атерит
+tile.Blackstone_polished.name=Полированный атерит
+tile.Blackstone_chiseled.name=Резной полированный атерит
+tile.Blackstone_bricks.name=Атеритовый кирпич
+tile.Blackstone_cracked_bricks.name=Потрескавшийся атеритовый кирпич
+tile.Blackstone_gilded.name=Позолоченный атерит
+tile.BlackstoneSingleSlab.defaultSlab.name=Плита из атерита
+tile.BlackstoneSingleSlab.polishedSlab.name=Плита из полированного атерита
+tile.BlackstoneSingleSlab.brickSlab.name=Плита из атеритового кирпича
+
+tile.BlackstoneDoubleSlab.defaultSlab.name=Двойная плита из атерита
+tile.BlackstoneDoubleSlab.polishedSlab.name=Двойная плита из полированного атерита
+tile.BlackstoneDoubleSlab.brickSlab.name=Двойная плита из атеритового кирпича
+
+tile.Stem_crimson.name=Багряный стебель
+tile.Stem_crimson_stripped.name=Ободранный багряный стебель
+tile.Stem_warped.name=Искажённый стебель
+tile.Stem_warped_stripped.name=Ободранный искажённый стебель
+tile.Planks_crimson.name=Багряные доски
+tile.Planks_warped.name=Искажённые доски
+
+tile.PlankSingleSlab.crimsonSlab.name=Багряная плита
+tile.PlankSingleSlab.warpedSlab.name=Искажённая плита
+tile.PlankDoubleSlab.crimsonSlab.name=Двойная багряная плита
+tile.PlankDoubleSlab.warpedSlab.name=Двойная искажённая плита
+
+tile.BrickSingleSlab.redSlab.name=Плита из красного адского кирпича
+tile.BrickSingleSlab.warpedSlab.name=Плита из искажённого адского кирпича
+tile.BrickDoubleSlab.redSlab.name=Двойная плита из красного адского кирпича
+tile.BrickDoubleSlab.warpedSlab.name=Двойная плита из искажённого адского кирпича
+
+tile.Wartblock_crimson.name=Блок адского нароста
+tile.Wartblock_warped.name=Блок искажённого нароста
+tile.Netherbricks_cracked.name=Потрескавшийся адский кирпич
+tile.Netherbricks_chiseled.name=Резной адский кирпич
+tile.Netherbricks_red.name=Красный адский кирпич
+tile.Netherbricks_red_cracked.name=Потрескавшийся красный адский кирпич
+tile.Netherbricks_red_chiseled.name=Резной адский красный кирпич
+tile.Netherbricks_warped.name=Искажённый адский кирпич
+tile.Netherbricks_warped_cracked.name=Потрескавшийся искажённый адский кирпич
+tile.Netherbricks_warped_chiseled.name=Резной искажённый адский кирпич
+tile.BoneBlock_default.name=Блок костей
+
+tile.NetherGoldOre.name=Адская золотая руда
+
+tile.MagmaBlock_default.name=Магматический атерит
+
+tile.QuartzBricks_default.name=Кварцевый кирпич
+tile.CrimsonStairs.name=Багряные ступеньки
+tile.WarpedStairs.name=Искажённые ступеньки
+tile.RedWartbrickStairs.name=Ступеньки из красного адского кирпича
+tile.WarpedWartbrickStairs.name=Ступеньки из искажённого адского кирпича
+tile.BlackstoneStairs.name=Атеритовые ступеньки
+tile.PolishedBlackstoneStairs.name=Ступеньки из полированного атерита
+tile.BlackstoneBrickStairs.name=Ступеньки из атеритового кирпича
+tile.WitherRose_default.name=Иссохшая роза Преисподней
+
+tile.Roots_crimson.name=Багряные корни
+tile.Roots_warped.name=Искажённые корни
+tile.Sprouts_warped.name=Адские ростки
+tile.Sprouts_crimson.name=Багряные ростки
+
+tile.Fungus_crimson.name=Багряный грибочек
+tile.Fungus_warped.name=Искажённый грибочек
+tile.WeepingVines_sprout.name=Плакучая лоза
+tile.TwistingVines_sprout.name=Извилистая лоза
+tile.WeepingVines_plant.name=Плакучая лоза
+tile.TwistingVines_plant.name=Извилистая лоза
+tile.ShroomLight_default.name=Грибной люменофор
+
+tile.Wall_default.name=Ограда из атерита
+tile.Wall_polished.name=Ограда из полированного атерита
+tile.Wall_bricks.name=Ограда из атеритового кирпича
+tile.NetherbrickWall_default.name=Стена из адского кирпича
+tile.NetherbrickWall_red.name=Стена из красного адского кирпича
+tile.NetherbrickWall_warped.name=Стена из искажённого адского кирпича
+
+tile.CrimsonFence.name=Багряный забор
+tile.WarpedFence.name=Искажённый забор
+tile.SoulTorch.name=Факел душ
+
+tile.pressurePlateCrimson.name=Багряная нажимная пластина
+tile.pressurePlateWarped.name=Искажённая нажимная пластина
+tile.pressurePlateBlackstone.name=Атеритовая нажимная пластина
+tile.crimson_trapdoor.name=Багряный люк
+tile.warped_trapdoor.name=Искажённый люк
+tile.crimsonFenceGate.name=Багряная калитка
+tile.warpedFenceGate.name=Искажённая калитка
+tile.crimsonButton.name=Багряная кнопка
+tile.warpedButton.name=Искажённая кнопка
+tile.blackstoneButton.name=Атеритовая кнопка
+tile.doorcrimson.name=Багряная дверь
+tile.doorwarped.name=Искажённая дверь
+tile..doorcrimson.name=Багряная дверь
+tile..doorwarped.name=Искажённая дверь
+
+tile.CryingObsidian.name=Рыдающий обсидиан
+tile.RespawnAnchor.name=Якорь возрождения
+
+tile.SoulFire_default.name=Пламя Души
+
+tile.FoxfireNylium_default.name=Биолюминесцентный нилий
+tile.Netherbricks_foxfire.name=Биолюминесцентный кирпич
+tile.Netherbricks_foxfire_cracked.name=Потрескавшийся биолюминесцентный кирпич
+tile.Netherbricks_foxfire_chiseled.name=Резной биолюминесцентный кирпич
+tile.Wartblock_foxfire.name=Блок биолюминесцентного нароста
+tile.Stem2_foxfire.name=Биолюминесцентный стебель
+tile.Stem2_foxfire_stripped.name=Ободранный биолюминесцентный стебель
+tile.FullWood_foxfire.name=Биолюминесцентные гифы
+tile.FullWood_stripped_foxfire.name=Ободранные биолюминесцентные гифы
+tile.Planks_foxfire.name=Биолюминесцентные доски
+
+tile.PlankSingleSlab.foxfireSlab.name=Биолюминисцентная плита
+tile.PlankDoubleSlab.foxfireSlab.name=Двойная биолюминесцентная плита
+
+tile.BrickSingleSlab.foxfireSlab.name=Плита из биолюминесцентного кирпича
+tile.BrickDoubleSlab.foxfireSlab.name=Двойная плита из биолюминесцентного кирпича
+
+tile.FoxfireStairs.name=Биолюминесцентные ступеньки
+tile.FoxfireWartbrickStairs.name=Ступеньки из биолюминесцентного кирпича
+tile.NetherbrickWall_foxfire.name=Ограда из биолюминесцентного кирпича
+tile.FoxfireFence.name=Биолюминесцентный забор
+tile.foxfireFenceGate.name=Биолюминисцентная калитка
+tile.FoxfireTorch.name=Биолюминесцентный факел
+tile.FoxFire_default.name=Биопламя
+tile.pressurePlateFoxfire.name=Биолюминисцентная нажимная пластина
+tile.foxfire_trapdoor.name=Биолюминесцентный люк
+tile.foxfireButton.name=Биолюминисцентная кнопка
+tile.doorfoxfire.name=Биолюминисцентная кнопка
+tile.Plants_knotty_roots.name=Узловатые корешки
+tile.Plants_spiked_weed.name=Шипастая трава
+tile.Fungus_foxfire.name=Биолюминесцентный грибок
+tile.FoxfireLily_default.name=Биолюминисцентная лилия
+tile.spectralDew.name=Спектральная роса
+tile.foxfireSign.name=Биолюминисцентная табличка
+
+tile.EfrineOre.name=Эфриновая руда
+tile.EfrineBlock.name=Блок эфриния
+tile.NetherIronOre.name=Адская железная руда
+
+tile.BasaltBricks_bricks.name=Базальтовый кирпич
+tile.BasaltBricks_bricks_cracked.name=Потрескавшийся базальтовый кирпич
+tile.BasaltBricks_chiseled.name=Резной базальтовый кирпич
+tile.BasaltBricks_bricks_polished.name=Полированный базальтовый кирпич
+tile.BasaltBricks_bricks_cracked_polished.name=Потрескавшийся полированный базальтовый кирпич
+tile.BasaltBricks_chiseled_polished.name=Резной полированный базальтовый кирпич
+tile.BasaltBricks_smooth.name=Гладкий базальт
+tile.BasaltBricks_polished_smooth.name=Гладкий полированный базальт
+
+tile.BasaltSingleSlab.defaultSlab.name=Базальтовая плита
+tile.BasaltSingleSlab.polishedSlab.name=Плита из полированного базальта
+tile.BasaltSingleSlab.brickSlab.name=Плита из базальтового кирпича
+tile.BasaltSingleSlab.polished_brickSlab.name=Плита из полированного базальтового кирпича
+tile.BasaltSingleSlab.smoothSlab.name=Плита из гладкого базальта
+tile.BasaltSingleSlab.polished_smoothSlab.name=Плита из полированного гладкого базальта
+
+tile.BasaltDoubleSlab.defaultSlab.name=Двойная базальтовая плита
+tile.BasaltDoubleSlab.polishedSlab.name=Двойная плита из полированного базальта
+tile.BasaltDoubleSlab.brickSlab.name=Двойная плита из базальтового кирпича
+tile.BasaltDoubleSlab.polished_brickSlab.name=Двойная плита из полированного базальтового кирпича
+tile.BasaltDoubleSlab.smoothSlab.name=Двойная плита из гладкого базальта
+tile.BasaltDoubleSlab.polished_smoothSlab.name=Двойная плита из гладкого полированного базальта
+
+tile.BasaltStairs.name=Базальтовые ступеньки
+tile.PolishedBasaltStairs.name=Ступеньки из полированного базальта
+tile.BasaltBrickStairs.name=Ступеньки из базальтового кирпича
+tile.PolishedBasaltBrickStairs.name=Ступеньки из полированного базальтового кирпича
+tile.SmoothBasaltStairs.name=Ступеньки из гладкого базальта
+tile.PolishedSmoothBasaltStairs.name=Ступеньки из полированного гладкого базальта
+
+tile.BasaltWall_default.name=Базальтовая ограда
+tile.BasaltWall_polished.name=Ограда из полированного базальта
+tile.BasaltWall_brick.name=Ограда из базальтового кирпича
+tile.BasaltWall_polished_brick.name=Ограда из полированного базальтового кирпича
+tile.BasaltWall_smooth.name=Ограда из гладкого базальта
+tile.BasaltWall_polished_smooth.name=Ограда из полированного гладкого базальта
+
+tile.RedNetherbrickFence.name=Забор из красного адского кирпича
+tile.WarpedNetherbrickFence.name=Забор из искажённого адского кирпича
+tile.FoxfireNetherbrickFence.name=Забор из биолюминесцентного кирпича
+
+tile.MagmaBlock_netherrack.name=Магматический адский камень
+
+tile.NetherCrystal_white.name=Белый кристалл преисподней
+tile.NetherCrystal_blue.name=Синий кристалл преисподней
+tile.NetherCrystal_green.name=Зелёный кристалл преисподней
+tile.NetherCrystal_yellow.name=Жёлтый кристалл преисподней
+tile.NetherCrystal_magenta.name=Пурпурный кристалл преисподней
+
+tile.Gloomstone.name=Камень уныния
+
+tile.QuartzBricks_smooth.name=Гладкий блок кварца
+tile.QuartzBricks_void.name=Блок пустотного кварца
+tile.QuartzBricks_voidchiseled.name=Резной блок пустотного кварца
+tile.QuartzBricks_voidbricks.name=Кирпич из пустотного кварца
+tile.QuartzBricks_voidsmooth.name=Гладкий блок пустотного кварца
+
+tile.QuartzPillar_chiseled.name=Резная кварцевая колонна
+tile.QuartzPillar_void.name=Колонна из пустотного кварца
+tile.QuartzPillar_voidchiseled.name=Резная колонна из пустотного кварца
+
+tile.QuartzSingleSlab.brickSlab.name=Плита из кварцевого кирпича
+tile.QuartzSingleSlab.smoothSlab.name=Плита из гладкого кварца
+tile.QuartzSingleSlab.voidSlab.name=Плита из пустотного кварца
+tile.QuartzSingleSlab.voidbrickSlab.name=Плита из пустотного кварцевого кирпича
+tile.QuartzSingleSlab.voidsmoothSlab.name=Плита из гладкого пустотного кварца
+tile.QuartzDoubleSlab.brickSlab.name=Двойная плита из кварцевого кирпича
+tile.QuartzDoubleSlab.smoothSlab.name=Двойная плита из гладкого кварца
+tile.QuartzDoubleSlab.voidSlab.name=Двойная плита из пустотного кварца
+tile.QuartzDoubleSlab.voidbrickSlab.name=Двойная плита из пустотного кварцевого кирпича
+tile.QuartzDoubleSlab.voidsmoothSlab.name=Двойная плита из гладкого пустотного кварца
+
+tile.QuartzBrickStairs.name=Ступеньки из кварцевого кирпича
+tile.QuartzSmoothStairs.name=Ступеньки из гладкого кварца
+tile.QuartzVoidStairs.name=Ступеньки из пустотного кварца
+tile.QuartzVoidSmoothStairs.name=Ступеньки из гладкого пустотного кварца
+tile.QuartzVoidBrickStairs.name=Ступеньки из пустотного кварцевого кирпича
+
+tile.QuartzWall_chiseled.name=Ограда из резного кварца
+tile.QuartzWall_brick.name=Ограда из кварцевого кирпича
+tile.QuartzWall_smooth.name=Ограда из гладкого кварца
+tile.QuartzWall_voidchiseled.name=Ограда из резного пустотного кварца
+tile.QuartzWall_voidbrick.name=Ограда из пустотного кварцевого кирпича
+tile.QuartzWall_voidsmooth.name=Ограда из гладкого пустотного кварца
+
+tile.CryingBlackstone.name=Рыдающий атерит
+
+tile.VoidQuartzOre_default.name=Руда пустотного кварца
+tile.VoidQuartzOre_netherrack.name=Руда пустотного кварца
+
+tile.ShadowTorch.name=Факел бездны
+
+tile.ShadowFire.name=Фантомное пламя бездны
+
+tile.SporeCushion_crimson.name=Багряная споровая подушка
+tile.SporeCushion_warped.name=Искажённая споровая подушка
+tile.SporeCushion_foxfire.name=Биолюминесцентная споровая подушка
+
+tile.CrimsonBarrel.name=Багряный бочонок
+tile.WarpedBarrel.name=Искажённый бочонок
+tile.FoxfireBarrel.name=Биолюминисцентный бочонок
+
+tile.CrimsonChest.name=Багряный сундук
+tile.WarpedChest.name=Искажённый сундук
+tile.FoxfireChest.name=Биолюминесцентный сундук
+
+tile.BoneTorch.name=Костяной факел
+tile.SoulBoneTorch.name=Костяной факел душ
+tile.FoxfireBoneTorch.name=Биолюминесцентный костяной факел
+tile.ShadowBoneTorch.name=Костяной факел Бездны
+
+tile.NetherBookshelf_crimson.name=Багряная книжная полка
+tile.NetherBookshelf_warped.name=Искажённая книжная полка
+tile.NetherBookshelf_foxfire.name=Биолюминисцентная книжная полка
+
+tile.NetherCraftingTable_crimson.name=Багряный верстак
+tile.NetherCraftingTable_warped.name=Искажённый верстак
+tile.NetherCraftingTable_foxfire.name=Биолюминесцентный верстак
+
+tile.FurnaceBlackstoneLit.name=Атеритовая печь
+tile.FurnaceBlackstone.name=Атеритовая печь
+
+tile.PotPlants_crimson_roots.name=Багряные корни в горшочке
+tile.PotPlants_warped_roots.name=Искажённые корни в горшочке
+tile.PotPlants_knotty_roots.name=Узловатые корни в горшочке
+tile.PotPlants_spiked_weed.name=Шипастая трава в горшочке
+
+tile.NetherBeacon.name=Маяк Преисподней
+
+tile.netherlicious.crimsonSignStanding.name=Багряная табличка
+tile.netherlicious.crimsonSignWall.name=Багряная табличка
+tile.netherlicious.warpedSignStanding.name=Искажённая табличка
+tile.netherlicious.warpedSignWall.name=Искажённая табличка
+tile.netherlicious.foxfireSignStanding.name=Биолюминисцентная табличка
+tile.netherlicious.foxfireSignWall.name=Биолюминисцентная табличка
+
+###
+Chains
+###
+
+tile.Chain.name=Цепочка
+tile.ChainPowered.name=Цепочка
+
+tile.ChainGold.name=Золотая цепочка
+tile.ChainPoweredGold.name=Золотая цепочка
+
+tile.ChainEfrine.name=Эфриниевая цепочка
+tile.ChainPoweredEfrine.name=Эфриниевая цепочка
+
+###
+Lanterns
+###
+
+tile.SoulLantern.name=Фонарь души
+tile.SoulLanternGold.name=Золотой фонарь души
+tile.SoulLanternEfrine.name=Эфриниевый фонарь души
+
+tile.FoxfireLantern.name=Биолюминесцентный фонарь
+tile.FoxfireLanternGold.name=Золотой биолюминесцентный фонарь
+tile.FoxfireLanternEfrine.name=Эфриниевый биолюминесцентный фонарь
+
+tile.GlowstoneLantern.name=Светокаменный фонарь
+tile.GlowstoneLanternGold.name=Золотой светокаменный фонарь
+tile.GlowstoneLanternEfrine.name=Эфриниевый светокаменный фонарь
+
+tile.RedstoneLantern.name=Краснокаменный фонарь
+tile.RedstoneLanternGold.name=Золотой краснокаменный фонарь
+tile.RedstoneLanternEfrine.name=Эфриниевый краснокаменный фонарь
+
+tile.RedstoneLanternOn.name=Краснокаменный фонарь
+tile.RedstoneLanternGoldOn.name=Золотой краснокаменный фонарь
+tile.RedstoneLanternEfrineOn.name=Эфриниевый краснокаменный фонарь
+
+tile.EmptyLantern.name=Пустой фонарь
+tile.EmptyLanternGold.name=Золотой пустой фонарь
+tile.EmptyLanternEfrine.name=Эфриниевый пустой фонарь
+
+tile.Lantern.name=Фонарь
+tile.LanternGold.name=Золотой фонарь
+tile.LanternEfrine.name=Эфриниевый фонарь
+
+tile.ShadowLantern.name=Фонарь бездны
+tile.ShadowLanternGold.name=Золотой фонарь бездны
+tile.ShadowLanternEfrine.name=Эфриниевый фонарь бездны
+
+
+#############
+Crop Blocks
+#############
+
+tile.GhastlyGourd.name=Бледная тыква
+tile.InfernalReed.name=Проклятый тростник
+tile.SoulFarmland.name=Пашня душ
+tile.Sprouts_swamp.name=Болотные ростки
+tile.GhastlyGourdStem.name=Стебель бледной тыквы
+tile.DevilishMaize.name=Дьявольская кукуруза
+tile.HellderBerryBush.name=Куст Нифльхеймской бузины
+tile.CrimsonWartCrop.name=Багряный нарост
+tile.WarpedWartCrop.name=Искажённый нарост
+tile.SoggyWartCrop.name=Мокрый нарост
+tile.AbyssalOat.name=Овёс Бездны
+
+
+
+
+#############
+Items
+#############
+
+item.crimsonSign.name=Багряная табличка
+item.warpedSign.name=Искажённая табличка
+item.foxfireSign.name=Биолюминисцентная табличка
+
+item.dye.black.name=Чёрный краситель
+
+item.Pigstep.name=Пластинка
+Pigstep.desc=Lena Raine - Pigstep
+
+item.Rubedo.name=Пластинка
+Rubedo.desc=Lena Raine - Rubedo
+
+item.SoBelow.name=Пластинка
+SoBelow.desc=Lena Raine - So Below
+
+item.Chrisopoeia.name=Пластинка
+Chrisopoeia.desc=Lena Raine - Chrysopoeia
+
+item.FoxfirePowder.name=Биолюминесцентный порошок
+
+item.SpectralBucket.name=Ведро спектральной росы
+
+item.Nugget.iron_nugget.name=Железный самородок
+item.Nugget.efrine_nugget.name=Самородок эфриния
+
+item.Ingot.efrine_ingot.name=Слиток эфриния
+
+item.GloomstoneDust.name=Пыль уныния
+
+item.FungalTreat.name=Грибное лакомство
+
+item.FlintAndSteelSoul.name=Огниво душ
+item.FlintAndSteelFoxfire.name=Биолюминисцентное огниво
+item.FlintAndSteelShadow.name=Огниво бездны
+
+item.VoidQuartzItem.name=Пустотный кварц
+
+item.Materials.shield_scrap.name=Обломки щита
+item.Materials.spore_membrane.name=Споровая мембрана
+###################
+Crop and Seed Items
+###################
+
+item.InfernalReedItem_infernal_reed.name=Проклятый тростник
+item.WartItem.crimson_wart.name=Багряный нарост
+item.WartItem.warped_wart.name=Искажённый нарост
+item.WartItem.soggy_wart.name=Мокрый нарост
+
+item.DevilishMaizeItem.name=Дьявольская кукуруза
+item.HellderBerryItem.name=Нифльхеймская бузина
+item.AbyssalOatItem.name=Овёс Бездны
+
+
+item.GhastlyGourdSeeds.name=Семена бледной тыквы
+item.DevilishMaizeSeeds.name=Семена дьявольской кукурузы
+item.HellderBerrySeeds.name=Семена Нифльхеймской бузины
+item.AbyssalOatSeeds.name=Семена овса бездны
+item.DevilishPopcornRaw.name=Миска дьявольской кукурузы
+item.DevilishPopcorn.name=Дьявольский попкорн
+item.StewCrimson.name=Багряное рагу
+item.StewWarped.name=Искажённое рагу
+item.StewFoxfire.name=Биолюминисцентное рагу
+item.JuiceHellderberry.name=Бузинный сок
+item.CookieHellderberry.name=Нифльхеймское печенье
+item.AbyssalBread.name=Батон бездны
+
+
+###################
+Food
+###################
+
+item.GhastlyPie.name=Бледный пирог
+item.RoastedWart.name=Жареный нарост
+item.RoastedDevilishMaize.name=Горячая дьявольская кукуруза
+
+item.StriderFlankRaw.name=Крылышко Лавомерки
+item.StriderFlankCooked.name=Стейк из Лавомерки
+
+###################
+Armor and Tools
+###################
+
+item.EfrineHelmet.name=Эфриниевый шлем
+item.EfrineChestPlate.name=Эфриниевый нагрудник
+item.EfrineLeggings.name=Эфриниевые поножи
+item.EfrineBoots.name=Эфриниевые ботинки
+
+item.HeavyBlazeHelmet.name=Тяжёлый шлем Ифрита
+item.HeavyBlazeChestPlate.name=Осадная кираса Ифрита
+item.HeavyBlazeLeggings.name=Латные поножи Ифрита
+item.HeavyBlazeBoots.name=Тяжёлые сапоги Ифрита
+
+item.EfrineShovel.name=Эфриниевая лопата
+item.EfrinePickaxe.name=Эфриниевая кирка
+item.EfrineAxe.name=Эфриниевый топор
+item.EfrineHoe.name=Эфриниевая мотыга
+item.EfrineSword.name=Эфриниевый меч
+
+
+#############
+Chat Messages
+#############
+
+chat.bedSpawnSet=Точка респавна установлена, прежде, чем устанавливать новую, сломайте якорь. Если вы застряли, проверьте конфиг.
+chat.bedSpawnFail=Нужно разрешить респавн в Аду в конфиге, прежде чем устанавливать точку.
+chat.bedSpawnWrongDim=Якорь работает только в Аду.
+chat.bedSpawnFailWrongDim=Нужно разрешить респавн в аду и находиться там.
+
+
+#############
+Tooltip
+#############
+
+tooltip.respawnAnchor.desc=Устанавливает точку возрождения в аду.
+
+tooltip.seed.desc=Сажать на душевной пашне
+
+tooltip.foxfirepowder.desc=Разжигает биолюминисцентное пламя
+
+tooltip.spiked_weed.desc=Колется, если бегать по ней босиком
+
+tooltip.berryseed.desc=Сажать на душевной пашне или нилие
+
+tooltip.hellderberry.desc=Аромат Отца Лжи
+
+tooltip.efrine.desc=Холодный и мягкий. Блоки и вещи из этого материала несгораемые.
+tooltip.efrineItem.desc=Не горит даже в лаве!
+
+tooltip.fungaltreat.desc=Боровы и Лавомерки его просто обожают!
+
+tooltip.shadowIgniter.desc=Пламя этого огнива обращает кварцевую руду к тьме.
+
+tooltip.efrinearmor.desc=Полный набор дарует невосприимчивость к огню.
+tooltip.heavyblazearmor.desc=Очень прочная, но тяжёлая. Полный набор дарует огнестойкость.
+tooltip.efrinetool.desc=В огне не горит, в лаве не тонет.
+
+tooltip.sporecushion.desc=Мягкая подушка, которая смягчает падение
+
+tooltip.pot_plant.desc=Будет отлично смотреться в горшочке!
+
+#############
+Container
+#############
+
+container.netherlicious.barrel=Бочонок
+
+#############
+Achievements
+#############
+
+achievement.Nether=Жаркое местечко
+achievement.Nether.desc=Отправляйтесь в Ад!
+  
+achievement.CryingObsidian=Кто-то режет лук?
+achievement.CryingObsidian.desc=Получить рыдающий обсидиан
+
+achievement.RespawnAnchor=Не совсем "Девять" жизней
+achievement.RespawnAnchor.desc=Установить точку возрождения с помощью Якоря
+
+achievement.CrimsonForest=А я красный лес in a crimson world
+achievement.CrimsonForest.desc=Посетить Багряный лес
+
+achievement.WarpedForest=Не очень-то обыкновенный лес
+achievement.WarpedForest.desc=Посетить Искажённый лес
+
+achievement.SoulsandValley=Песчаные пляжи, говорили они...
+achievement.SoulsandValley.desc=Посетите Долину песка душ
+
+achievement.BasaltDeltas=Отдыхаем в Дельте
+achievement.BasaltDeltas.desc=Посетить базальтовую Дельту
+
+achievement.PigStep=Туса-Свинотуса
+achievement.PigStep.desc=Прослушать трек "Pigstep"
+
+achievement.ShroomLight=Да кому нужен светокамень?
+achievement.ShroomLight.desc=Получить Грибной люменофор
+
+achievement.Stem=Нарубить дров...снова?
+achievement.Stem.desc=Срубить гигантский гриб
+
+achievement.Stripped_Stem=Голая древесина
+achievement.Stripped_Stem.desc=Освободите стебель гриба с помощью топорика!
+
+achievement.OverworldGhast=Непростое Содружество
+achievement.OverworldGhast.desc=Спасти гаста из преисподней, проведя его в обычный мир... и убить его.
+
+achievement.Rubedo=Помойные треки
+achievement.Rubedo.desc=Прослушать трек "Rubedo"
+
+achievement.SoBelow=Грустная мелодия
+achievement.SoBelow.desc=Прослушать трек "So Below"
+
+achievement.Chrisopoeia=Леденящие флюиды
+achievement.Chrisopoeia.desc=Прослушать трек "Chrysopoeia"
+
+achievement.FoxfireSwamp=Мокрое место
+achievement.FoxfireSwamp.desc=Посетить Биолюминисцентное болото
+
+achievement.Farmland=Следующий шаг
+achievement.Farmland.desc=Используйте песок или землю душ для того, чтобы посадить что-нибудь
+
+achievement.CrystallineCrag=Светящиеся кристаллы
+achievement.CrystallineCrag.desc=Посетить кристаллическое ущелье
+
+achievement.AbyssalShadowland=Тёмные глубины преисподней
+achievement.AbyssalShadowland.desc=Посетить Мрачную Бездну
+
+achievement.RupturedChasm=Кошмар путешественника
+achievement.RupturedChasm.desc=Посетить Изорванное Ущелье
+
+achievement.HoglinTame="Свино" ферма
+achievement.HoglinTame.desc=Приручите борова, чтобы фермерство стало проще
+
+achievement.ZoglinHeal=Очистка зомборовов
+achievement.ZoglinHeal.desc=Бросьте зелье слабости и скормите золотую морковь зомборову, чтобы вылечить его
+
+achievement.VoidQuartzTransform=Волшебный огонь бездны
+achievement.VoidQuartzTransform.desc=Подожгите кварцевую руду Огнивом бездны, чтобы превратить её в пустотную
+
+
+#############
+Entities
+#############
+
+entity.netherlicious.Strider.name=Лавомерка
+entity.netherlicious.Hoglin.name=Боров
+entity.netherlicious.Zoglin.name=Зомборов
+entity.netherlicious.BlazeKnight.name=Blaze Knight
+
+entity.netherlicious.SporeCrimson.name=Багряная спора
+entity.netherlicious.SporeWarped.name=Искажённая спора
+entity.netherlicious.SporeFoxfire.name=Биолюминесцентная спора
+
+entity.netherlicious.Ember.name=Всполох
+entity.netherlicious.Smolder.name=Ожог
+entity.netherlicious.Ashling.name=Золовик
+
+entity.netherlicious.EmberSoul.name=Душевный Всполох
+entity.netherlicious.EmberFoxfire.name=Биолюминесцентный Всполох
+entity.netherlicious.EmberShadow.name=Всполох Бездны
+
+entity.netherlicious.Skull.name=Саргассо
+
+entity.netherlicious.CrimsonRay.name=Багряный споровый скат
+entity.netherlicious.WarpedRay.name=Искажённый споровый скат
+entity.netherlicious.FoxfireRay.name=Биолюминисцентный споровый скат
+
+
+#######################################################################
+Version 3.0.0 Additions
+#######################################################################
+
+
+#######################
+Blocks
+#######################
+
+tile.Blackstone_tile.name=Атеритовые плитки
+tile.Blackstone_cross.name=Атеритовая крестовина
+tile.Blackstone_path.name=Атеритовая дорожка
+
+tile.NewNetherbrick1_chiseled.name=Гладкий резной адский кирпич
+tile.NewNetherbrick1_broken.name=Обветренный адский кирпич
+tile.NewNetherbrick1_cross.name=Крестовина из адского кирпича
+tile.NewNetherbrick1_smooth.name=Гладкий адский кирпич
+tile.NewNetherbrick1_tiles.name=Дорожка из адского кирпича
+
+tile.NewNetherbrick1_chiseled_red.name=Гладкий резной красный адский кирпич
+tile.NewNetherbrick1_broken_red.name=Обветренный красный адский кирпич
+tile.NewNetherbrick1_cross_red.name=Крестовина из красного адского кирпича
+tile.NewNetherbrick1_smooth_red.name=Гладкий красный адский кирпич
+tile.NewNetherbrick1_tiles_red.name=Дорожка из красного адского кирпича
+
+tile.NewNetherbrick1_chiseled_warped.name=Гладкий резной искажённый адский кирпич
+tile.NewNetherbrick1_broken_warped.name=Обветренный искажённый адский кирпич
+tile.NewNetherbrick1_cross_warped.name=Крестовина из искажённого адского кирпича
+tile.NewNetherbrick1_smooth_warped.name=Гладкий искажённый адский кирпич
+tile.NewNetherbrick1_tiles_warped.name=Дорожка из искажённого адского кирпича
+
+tile.NewNetherbrick2_chiseled_foxfire.name=Гладкий резной биолюминесцентный адский кирпич
+tile.NewNetherbrick2_broken_foxfire.name=Обветренный биолюминесцентный адский кирпич
+tile.NewNetherbrick2_cross_foxfire.name=Крестовина из биолюминесцентного адского кирпича
+tile.NewNetherbrick2_smooth_foxfire.name=Гладкий биолюминесцентный адский кирпич
+tile.NewNetherbrick2_tiles_foxfire.name=Дорожка из биолюминесцентного адского кирпича
+
+tile.NewNetherbrick2_black.name=Чёрный адский кирпич
+tile.NewNetherbrick2_black_cracked.name=Потрескавшийся чёрный адский кирпич
+tile.NewNetherbrick2_black_chiseled.name=Резной чёрный адский кирпич
+tile.NewNetherbrick2_chiseled_black.name=Гладкий чёрный адский кирпич
+tile.NewNetherbrick2_broken_black.name=Обветренный чёрный адский кирпич
+tile.NewNetherbrick2_cross_black.name=Крестовина из чёрного адского кирпича
+tile.NewNetherbrick2_smooth_black.name=Гладкий чёрный адский кирпич
+tile.NewNetherbrick2_tiles_black.name=Дорожка из чёрного адского кирпича
+
+tile.BrickSingleSlab.blackSlab.name=Плита из чёрного адского кирпича
+tile.BrickDoubleSlab.blackSlab.name=Двойная плита из чёрного адского кирпича
+tile.BrickSingleSlab2.defaultSlab.name=Гладская плита из адского кирпича
+tile.BrickSingleSlab2.redSlab.name=Гладская плита из красного адского кирпича
+tile.BrickSingleSlab2.warpedSlab.name=Гладская плита из искажённого адского кирпича
+tile.BrickSingleSlab2.foxfireSlab.name=Гладская плита из биолюминисцентного адского кирпича
+tile.BrickSingleSlab2.blackSlab.name=Гладская плита из чёрного адского кирпича
+tile.BrickDoubleSlab2.defaultSlab.name=Двойная гладкая плита из адского кирпича
+tile.BrickDoubleSlab2.redSlab.name=Двойная гладкая плита из красного адского кирпича
+tile.BrickDoubleSlab2.warpedSlab.name=Двойная гладкая плита из искажённого адского кирпича
+tile.BrickDoubleSlab2.foxfireSlab.name=Двойная гладкая плита из биолюминисцентного адского кирпича
+tile.BrickDoubleSlab2.blackSlab.name=Двойная гладкая плита из чёрного адского кирпича
+
+tile.BlackNetherbrickStairs.name=Ступеньки из чёрного адского кирпича
+tile.SmoothNetherbrickStairs.name=Гладкие ступеньки из адского кирпича
+tile.SmoothRedNetherbrickStairs.name=Гладкие ступеньки из красного адского кирпича
+tile.SmoothWarpedNetherbrickStairs.name=Гладкие ступеньки из искажённого адского кирпича
+tile.SmoothFoxfireNetherbrickStairs.name=Гладкие ступеньки из биолюминисцентного адского кирпича
+tile.SmoothBlackNetherbrickStairs.name=Гладкие ступеньки из чёрного адского кирпича
+
+tile.NetherbrickWall_broken.name=Обветренная ограда из адского кирпича
+tile.NetherbrickWall_smooth.name=Гладкая ограда из адского кирпича
+tile.NetherbrickWall_red_broken.name=Обветренная ограда из красного адского кирпича
+tile.NetherbrickWall_red_smooth.name=Гладкая ограда из красного адского кирпича
+tile.NetherbrickWall_warped_broken.name=Обветренная ограда из искажённого адского кирпича
+tile.NetherbrickWall_warped_smooth.name=Гладкая ограда из искажённого адского кирпича
+tile.NetherbrickWall_foxfire_broken.name=Обветренная ограда из биолюминесцентного адского кирпича
+tile.NetherbrickWall_foxfire_smooth.name=Гладкая ограда из биолюминесцентного адского кирпича
+tile.NetherbrickWall_black.name=Ограда из чёрного адского кирпича
+tile.NetherbrickWall_black_broken.name=Обветренная ограда из чёрного адского кирпича
+tile.NetherbrickWall_black_smooth.name=Гладкая ограда из черного адского кирпича
+
+tile.BlackNetherbrickFence.name=Забор из чёрного адского кирпича
+
+tile.Wartblock_nether.name=Блок адского нароста
+
+tile.Mossblock_crimson.name=Блок багряного мха
+tile.Mossblock_warped.name=Блок искажённого мха
+tile.Mossblock_foxfire.name=Блок биолюминесцентного мха
+
+tile.CrimsonMoss.name=Куртина Багряного мха
+tile.WarpedMoss.name=Куртина Искажённого мха
+tile.FoxfireMoss.name=Куртина Биолюминисцентного мха
+
+tile.Roots_crimson_shrub.name=Багряный кустарник
+tile.Roots_warped_shrub.name=Искажённый кустик
+tile.Roots_foxfire.name=Мокрый корень
+
+tile.NetherGrass_crimson_grass.name=Багряная трава
+tile.NetherGrass_warped_grass.name=Искажённая трава
+tile.NetherGrass_foxfire_grass.name=Болотница
+tile.NetherGrass_withered_grass.name=Иссушенная трава
+
+tile.Plants2_crimson_dew.name=Багровая Росянка
+tile.Plants2_warped_dew.name=Извилистая Росянка
+tile.Plants2_foxfire_dew.name=Фосфорицирующая Росянка
+tile.Plants2_crimson_fern.name=Красный папоротник
+tile.Plants2_warped_fern.name=Извитый папоротник
+tile.Plants2_foxfire_fern.name=Водянистый папоротник
+
+tile.GroundCover_crimson.name=Багряная поросль
+tile.GroundCover_warped.name=Искажённая поросль
+tile.GroundCover_foxfire.name=Болотная поросль
+
+tile.GloomHibiscus_default.name=Унылый Гибискус
+
+tile.NetherFlowerShrub_crimson_bluet.name=Багровый Василёк
+tile.NetherFlowerShrub_torch_flower.name=Жарок
+tile.NetherFlowerShrub_warped_poppy.name=Извилистый мак
+tile.NetherFlowerShrub_traumalia.name=Травмацинт
+
+tile.WitherRose_bone.name=Костяная роза
+tile.WitherRose_soul.name=Душевная роза
+
+tile.DoublePlants_crimson_dew.name=Гигантская багровая росянка
+tile.DoublePlants_warped_dew.name=Гигантская извилистая росянка
+tile.DoublePlants_foxfire_dew.name=Гигантская Фосфорицирующая росянка
+tile.DoublePlants_crimson_fern.name=Крупный красный папоротник
+tile.DoublePlants_warped_fern.name=Крупный извитый папоротник
+tile.DoublePlants_foxfire_fern.name=Крупный водянистый папоротник
+
+tile.PotPlants_crimson_shrub.name=Декоративный багряный кустарник
+tile.PotPlants_warped_shrub.name=Декоративный искажённый кустик
+tile.PotPlants_foxfire_roots.name=Декоративный мокрый корень
+
+tile.CarvedGourd.name=Резная бледная тыква
+tile.GourdLantern.name=Ужасный фонарь
+tile.GourdLanternSoul.name=Ужасный фонарь Душ
+tile.GourdLanternFoxfire.name=Ужасный фонарь Болотных огней
+tile.GourdLanternShadow.name=Ужасный фонарь Бездны
+
+tile.Ash.name=Блок золы
+
+tile.NetherCrystal_white_bud.name=Соцветие белых кристаллов преисподней
+tile.NetherCrystal_blue_bud.name=Соцветие синих кристаллов преисподней
+tile.NetherCrystal_green_bud.name=Соцветие зелёных кристаллов преисподней
+tile.NetherCrystal_yellow_bud.name=Соцветие жёлтых кристаллов преисподней
+tile.NetherCrystal_magenta_bud.name=Соцветие пурпурных кристаллов преисподней
+
+tile.CrystalClusterWhite_bud.name=Белый кристаллический бутон
+tile.CrystalClusterWhite_cluster.name=Белый кристальный цветок
+tile.CrystalClusterBlue_bud.name=Синий кристаллический бутон
+tile.CrystalClusterBlue_cluster.name=Синий кристальный цветок
+tile.CrystalClusterGreen_bud.name=Зелёный кристаллический бутон
+tile.CrystalClusterGreen_cluster.name=Зелёный кристальный цветок
+tile.CrystalClusterYellow_bud.name=Жёлтый кристаллический бутон
+tile.CrystalClusterYellow_cluster.name=Жёлтый кристальный цветок
+tile.CrystalClusterMagenta_bud.name=Пурпурный кристаллический бутон
+tile.CrystalClusterMagenta_cluster.name=Пурпурный кристальный цветок
+
+tile.CrystalLamp_white.name=Белая кристальная лампа
+tile.CrystalLamp_blue.name=Синяя кристальная лампа
+tile.CrystalLamp_green.name=Зелёная кристальная лампа
+tile.CrystalLamp_yellow.name=Жёлтая кристальная лампа
+tile.CrystalLamp_magenta.name=Пурпурная кристальная лампа
+
+tile.CrystalLamp_redstone_off_white.name=Белая переключаемая кристальная лампа
+tile.CrystalLamp_redstone_off_blue.name=Синяя переключаемая кристальная лампа
+tile.CrystalLamp_redstone_off_green.name=Зелёная переключаемая кристальная лампа
+tile.CrystalLamp_redstone_off_yellow.name=Жёлтая переключаемая кристальная лампа
+tile.CrystalLamp_redstone_off_magenta.name=Пурпурная переключаемая кристальная лампа
+
+tile.CrystalLamp_redstone_on_white.name=Белая переключаемая кристальная лампа
+tile.CrystalLamp_redstone_on_blue.name=Синяя переключаемая кристальная лампа
+tile.CrystalLamp_redstone_on_green.name=Зелёная переключаемая кристальная лампа
+tile.CrystalLamp_redstone_on_yellow.name=Жёлтая переключаемая кристальная лампа
+tile.CrystalLamp_redstone_on_magenta.name=Пурпурная переключаемая кристальная лампа
+
+tile.TintedGlass_white.name=Белое тонированное стекло
+tile.TintedGlass_blue.name=Синее тонированное стекло
+tile.TintedGlass_green.name=Зелёное тонированное стекло
+tile.TintedGlass_yellow.name=Жёлтое тонированное стекло
+tile.TintedGlass_magenta.name=Пурпурное тонированное стекло
+
+tile.BlackstoneVent_base_big.name=Большое атеритовое основание жерла
+tile.BlackstoneVent_base_middle.name=Среднее атеритовое основание жерла
+tile.BlackstoneVent_base_small.name=Маленькое атеритовое основание жерла
+tile.BlackstoneVent_vent.name=Атеритовое жерло
+tile.BlackstoneVent_vent_smoke.name=Атеритовое дымящее жерло
+tile.BlackstoneVent_vent_lava.name=Атеритовое магматическое жерло
+tile.BlackstoneVent_vent_flame.name=Атеритовое огнеплюйное жерло
+tile.BlackstoneVent_vent_flame_soul.name=Атеритовое жерло Душ
+tile.BlackstoneVent_vent_flame_foxfire.name=Атеритовое жерло болотных огней
+tile.BlackstoneVent_vent_flame_shadow.name=Атеритовое жерло бездны
+
+tile.BasaltVent_base_big.name=Большое базальтовое основание жерла
+tile.BasaltVent_base_middle.name=Среднее базальтовое основание жерла
+tile.BasaltVent_base_small.name=Маленькое базальтовое основание жерла
+tile.BasaltVent_vent.name=Базальтовое жерло
+tile.BasaltVent_vent_smoke.name=Базальтоввое дымящее жерло
+tile.BasaltVent_vent_lava.name=Базальтовое магматическое жерло
+tile.BasaltVent_vent_flame.name=Базальтовое огнеплюйное жерло
+tile.BasaltVent_vent_flame_soul.name=Базальтовое жерло Душ
+tile.BasaltVent_vent_flame_foxfire.name=Базальтовое жерло болотных огней
+tile.BasaltVent_vent_flame_shadow.name=Базальтовое жерло бездны
+
+tile.BoneBlock_cracked.name=Обветренный блок костей
+
+#######################
+Items
+#######################
+
+item.dye.blue.name=Синий краситель
+item.dye.white.name=Белый краситель
+
+item.CrystalShard.crystal_shard_white.name=Белый кристаллический лепесток
+item.CrystalShard.crystal_shard_blue.name=Синий кристаллический лепесток
+item.CrystalShard.crystal_shard_green.name=Зелёный кристаллический лепесток
+item.CrystalShard.crystal_shard_yellow.name=Жёлтый кристаллический лепесток
+item.CrystalShard.crystal_shard_magenta.name=Пурпурный кристаллический лепесток
+
+
+#######################
+Tooltips
+#######################
+
+tooltip.pot_plant_grow.desc=Посадите в горшчек, или вырастите костной мукой
+tooltip.carved.desc=ПКМ ножницами, чтобы вырезать лицо
+tooltip.soil.desc=ПКМ лопатой, чтобы рыхлить
+
+#######################
+Achievements
+#######################
+
+achievement.SpookyFace=Ужасный лик
+achievement.SpookyFace.desc=Вырежьте на бледной тыкве ножницами
+
+achievement.PiglinHeal=Свинарофикация
+achievement.PiglinHeal.desc=Исцелите Свинарозомби с помощью зелья слабости и золотого яблока.
+
+#######################
+Entities
+#######################
+
+entity.netherlicious.Piglin.name=Свинарь
+entity.netherlicious.ZombiePiglin.name=Свинарозомби
+
+
+#######################################################################
+Version 3.2.0 Additions
+#######################################################################
+
+
+#######################
+Blocks
+#######################
+
+tile.NetherrackVent_base_big.name=Большое адскокаменное основание жерла
+tile.NetherrackVent_base_middle.name=Среднее адскокаменное основание жерла
+tile.NetherrackVent_base_small.name=Маленькое адскокаменное основание жерла
+tile.NetherrackVent_vent.name=Адскокаменное жерло
+tile.NetherrackVent_vent_smoke.name=Адскокаменное дымящее жерло
+tile.NetherrackVent_vent_lava.name=Адскокаменное магматическое жерло
+tile.NetherrackVent_vent_flame.name=Адскокаменное огнеплюйное жерло
+tile.NetherrackVent_vent_flame_soul.name=Адскокаменное жерло душ
+tile.NetherrackVent_vent_flame_foxfire.name=Адскокаменное жерло болотных огней
+tile.NetherrackVent_vent_flame_shadow.name=Адскокаменное жерло бездны
+
+#######################
+Items
+#######################
+
+item.InfiniteAmethyst.name=Пластинка
+
+item.GlassesWhite.name=Очки из белого кристалла
+item.GlassesBlue.name=Очки из синего кристалла
+item.GlassesGreen.name=Очки из зелёного кристалла
+item.GlassesYellow.name=Очки из жёлтого кристалла
+item.GlassesMagenta.name=Очки из пурпурного кристалла
+item.GlassesDealmaker.name=Dealmaker
+
+#######################
+Tooltips
+#######################
+
+InfiniteAmethyst.desc=Lena Raine - Infinite Amethyst
+
+tooltip.glasses.desc=Позволяют видеть сквозь лаву
+tooltip.dealmaker.desc=Ваш шанс показать всем, кто тут ГЛАВНЫЙ!
+
+#######################
+Achievements
+#######################
+
+achievement.InfiniteAmethyst=Мелодия кристаллических глубин
+achievement.InfiniteAmethyst.desc=Прослушать трек "Infinite Amethyst"
+
+#######################################################################
+Version 3.2.1 Additions
+#######################################################################
+
+
+#######################
+Blocks
+#######################
+
+tile.BrittleBedrock.name=Хрупкий бедрок
+
+#######################
+Entities
+#######################
+
+entity.netherlicious.SkullWither.name=Иссушающий Саргассо

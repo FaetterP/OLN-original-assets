@@ -1,0 +1,955 @@
+#############
+Creative Tabs
+#############
+
+itemGroup.netherliciousBlocks=Netherlicious Blocks
+itemGroup.netherliciousDecoration=Netherlicious Decoration Blocks
+itemGroup.netherliciousTechnical=Netherlicious Technical Blocks
+itemGroup.netherliciousItems=Netherlicious Items
+itemGroup.netherliciousFood=Netherlicious Food
+itemGroup.netherliciousArmorTools=Netherlicious Armor and Tools
+
+
+#############
+Blocks
+#############
+
+tile.Nether_Gravel_default.name=Dark Gravel
+tile.SoulSandstone_default.name=Soul Sandstone
+tile.SoulSandstone_cut.name=Cut Soul Sandstone
+tile.SoulSandstone_chiseled.name=Chiseled Soul Sandstone
+tile.SoulSandstone_smooth.name=Smooth Soul Sandstone
+
+tile.SoulSandstoneSingleSlab.defaultSlab.name=Soul Sandstone Slab
+tile.SoulSandstoneSingleSlab.smoothSlab.name=Smooth Soul Sandstone Slab
+tile.SoulSandstoneDoubleSlab.defaultSlab.name=Double Soul Sandstone Slab
+tile.SoulSandstoneDoubleSlab.smoothSlab.name=Double Smooth Soul Sandstone Slab
+
+tile.SoulSandstoneStairs.name=Soul Sandstone Stairs
+tile.SmoothSoulSandstoneStairs.name=Smooth Soul Sandstone Stairs
+tile.SoulSandstoneWall_default.name=Soul Sandstone Wall
+tile.SoulSandstoneWall_smooth.name=Smooth Soul Sandstone Wall
+
+tile.FullWood_crimson.name=Crimson Hyphae
+tile.FullWood_stripped_crimson.name=Stripped Crimson Hyphae
+tile.FullWood_warped.name=Warped Hyphae
+tile.FullWood_stripped_warped.name=Stripped Warped Hyphae
+
+tile.CrimsonNylium_default.name=Crimson Nylium
+tile.WarpedNylium_default.name=Warped Nylium
+tile.SoulSoil_default.name=Soul Soil
+tile.Basalt_default.name=Basalt
+tile.Basalt_polished.name=Polished Basalt
+tile.Blackstone_default.name=Blackstone
+tile.Blackstone_polished.name=Polished Blackstone
+tile.Blackstone_chiseled.name=Chiseled Polished Blackstone
+tile.Blackstone_bricks.name=Polished Blackstone Bricks
+tile.Blackstone_cracked_bricks.name=Cracked Polished Blackstone Bricks
+tile.Blackstone_gilded.name=Gilded Blackstone
+tile.BlackstoneSingleSlab.defaultSlab.name=Blackstone Slab
+tile.BlackstoneSingleSlab.polishedSlab.name=Polished Blackstone Slab
+tile.BlackstoneSingleSlab.brickSlab.name=Polished Blackstone Brick Slab
+
+tile.BlackstoneDoubleSlab.defaultSlab.name=Double Blackstone Slab
+tile.BlackstoneDoubleSlab.polishedSlab.name=Double Polished Blackstone Slab
+tile.BlackstoneDoubleSlab.brickSlab.name=Double Polished Blackstone Brick Slab
+
+tile.Stem_crimson.name=Crimson Stem
+tile.Stem_crimson_stripped.name=Stripped Crimson Stem
+tile.Stem_warped.name=Warped Stem
+tile.Stem_warped_stripped.name=Stripped Warped Stem
+tile.Planks_crimson.name=Crimson Planks
+tile.Planks_warped.name=Warped Planks
+
+tile.PlankSingleSlab.crimsonSlab.name=Crimson Slab
+tile.PlankSingleSlab.warpedSlab.name=Warped Slab
+tile.PlankDoubleSlab.crimsonSlab.name=Double Crimson Slab
+tile.PlankDoubleSlab.warpedSlab.name=Double Warped Slab
+
+tile.BrickSingleSlab.redSlab.name=Red Nether Brick Slab
+tile.BrickSingleSlab.warpedSlab.name=Warped Nether Brick Slab
+tile.BrickDoubleSlab.redSlab.name=Double Red Nether Brick Slab
+tile.BrickDoubleSlab.warpedSlab.name=Double Warped Nether Brick Slab
+
+tile.Wartblock_crimson.name=Crimson Wart Block
+tile.Wartblock_warped.name=Warped Wart Block
+tile.Netherbricks_cracked.name=Cracked Nether Bricks
+tile.Netherbricks_chiseled.name=Chiseled Nether Bricks
+tile.Netherbricks_red.name=Red Nether Bricks
+tile.Netherbricks_red_cracked.name=Cracked Red Nether Bricks
+tile.Netherbricks_red_chiseled.name=Chiseled Red Nether Bricks
+tile.Netherbricks_warped.name=Warped Nether Bricks
+tile.Netherbricks_warped_cracked.name=Cracked Warped Nether Bricks
+tile.Netherbricks_warped_chiseled.name=Chiseled Warped Nether Bricks
+tile.BoneBlock_default.name=Bone Block
+
+tile.NetherGoldOre.name=Nether Gold Ore
+
+tile.MagmaBlock_default.name=Magmatic Blackstone
+
+tile.QuartzBricks_default.name=Quartz Bricks
+tile.CrimsonStairs.name=Crimson Stairs
+tile.WarpedStairs.name=Warped Stairs
+tile.RedWartbrickStairs.name=Red Nether Brick Stairs
+tile.WarpedWartbrickStairs.name=Warped Nether Brick Stairs
+tile.BlackstoneStairs.name=Blackstone Stairs
+tile.PolishedBlackstoneStairs.name=Polished Blackstone Stairs
+tile.BlackstoneBrickStairs.name=Polished Blackstone Brick Stairs
+tile.WitherRose_default.name=Wither Rose
+
+tile.Roots_crimson.name=Crimson Roots
+tile.Roots_warped.name=Warped Roots
+tile.Sprouts_warped.name=Nether Sprouts
+tile.Sprouts_crimson.name=Crimson Sprouts
+
+tile.Fungus_crimson.name=Crimson Fungus
+tile.Fungus_warped.name=Warped Fungus
+tile.WeepingVines_sprout.name=Weeping Vines
+tile.TwistingVines_sprout.name=Twisting Vines
+tile.WeepingVines_plant.name=Weeping Vines
+tile.TwistingVines_plant.name=Twisting Vines
+tile.ShroomLight_default.name=Shroomlight
+
+tile.Wall_default.name=Blackstone Wall
+tile.Wall_polished.name=Polished Blackstone Wall
+tile.Wall_bricks.name=Polished Blackstone Brick Wall
+tile.NetherbrickWall_default.name=Nether Brick Wall
+tile.NetherbrickWall_red.name=Red Nether Brick Wall
+tile.NetherbrickWall_warped.name=Warped Nether Brick Wall
+
+tile.CrimsonFence.name=Crimson Fence
+tile.WarpedFence.name=Warped Fence
+tile.SoulTorch.name=Soul Torch
+
+tile.pressurePlateCrimson.name=Crimson Pressure Plate
+tile.pressurePlateWarped.name=Warped Pressure Plate
+tile.pressurePlateBlackstone.name=Blackstone Pressure Plate
+tile.crimson_trapdoor.name=Crimson Trapdoor
+tile.warped_trapdoor.name=Warped Trapdoor
+tile.crimsonFenceGate.name=Crimson Fence Gate
+tile.warpedFenceGate.name=Warped Fence Gate
+tile.crimsonButton.name=Crimson Button
+tile.warpedButton.name=Warped Button
+tile.blackstoneButton.name=Polished Blackstone Button
+tile.doorcrimson.name=Crimson Door
+tile.doorwarped.name=Warped Door
+tile..doorcrimson.name=Crimson Door
+tile..doorwarped.name=Warped Door
+
+tile.CryingObsidian.name=Crying Obsidian
+tile.RespawnAnchor.name=Respawn Anchor
+
+tile.SoulFire_default.name=Soul Fire
+
+tile.FoxfireNylium_default.name=Foxfire Nylium
+tile.Netherbricks_foxfire.name=Foxfire Nether Bricks
+tile.Netherbricks_foxfire_cracked.name=Cracked Foxfire Nether Bricks
+tile.Netherbricks_foxfire_chiseled.name=Chiseled Foxfire Nether Bricks
+tile.Wartblock_foxfire.name=Foxfire Wart Block
+tile.Stem2_foxfire.name=Foxfire Stem
+tile.Stem2_foxfire_stripped.name=Stripped Foxfire Stem
+tile.FullWood_foxfire.name=Foxfire Hyphae
+tile.FullWood_stripped_foxfire.name=Stripped Foxfire Hyphae
+tile.Planks_foxfire.name=Foxfire Planks
+
+tile.PlankSingleSlab.foxfireSlab.name=Foxfire Slab
+tile.PlankDoubleSlab.foxfireSlab.name=Double Foxfire Slab
+
+tile.BrickSingleSlab.foxfireSlab.name=Foxfire Nether Brick Slab
+tile.BrickDoubleSlab.foxfireSlab.name=Double Foxfire Nether Brick Slab
+
+tile.FoxfireStairs.name=Foxfire Stairs
+tile.FoxfireWartbrickStairs.name=Foxfire Nether Brick Stairs
+tile.NetherbrickWall_foxfire.name=Foxfire Nether Brick Wall
+tile.FoxfireFence.name=Foxfire Fence
+tile.foxfireFenceGate.name=Foxfire Fence Gate
+tile.FoxfireTorch.name=Foxfire Torch
+tile.FoxFire_default.name=Foxfire
+tile.pressurePlateFoxfire.name=Foxfire Pressure Plate
+tile.foxfire_trapdoor.name=Foxfire Trapdoor
+tile.foxfireButton.name=Foxfire Button
+tile.doorfoxfire.name=Foxfire Door
+tile.Plants_knotty_roots.name=Knotty Roots
+tile.Plants_spiked_weed.name=Spiked Weed
+tile.Fungus_foxfire.name=Foxfire Fungus
+tile.FoxfireLily_default.name=Foxfire Lily
+tile.spectralDew.name=Spectral Dew
+tile.foxfireSign.name=Foxfire Sign
+
+tile.EfrineOre.name=Efrine Ore
+tile.EfrineBlock.name=Block of Efrine
+tile.NetherIronOre.name=Nether Iron Ore
+
+tile.BasaltBricks_bricks.name=Basalt Bricks
+tile.BasaltBricks_bricks_cracked.name=Cracked Basalt Bricks
+tile.BasaltBricks_chiseled.name=Chiseled Basalt Bricks
+tile.BasaltBricks_bricks_polished.name=Polished Basalt Bricks
+tile.BasaltBricks_bricks_cracked_polished.name=Cracked Polished Basalt Bricks
+tile.BasaltBricks_chiseled_polished.name=Chiseled Polished Basalt Bricks
+tile.BasaltBricks_smooth.name=Smooth Basalt
+tile.BasaltBricks_polished_smooth.name=Smooth Polished Basalt
+
+tile.BasaltSingleSlab.defaultSlab.name=Basalt Slab
+tile.BasaltSingleSlab.polishedSlab.name=Polished Basalt Slab
+tile.BasaltSingleSlab.brickSlab.name=Basalt Brick Slab
+tile.BasaltSingleSlab.polished_brickSlab.name=Polished Basalt Brick Slab
+tile.BasaltSingleSlab.smoothSlab.name=Smooth Basalt Slab
+tile.BasaltSingleSlab.polished_smoothSlab.name=Smooth Polished Basalt Slab
+
+tile.BasaltDoubleSlab.defaultSlab.name=Double Basalt Slab
+tile.BasaltDoubleSlab.polishedSlab.name=Double Polished Basalt Slab
+tile.BasaltDoubleSlab.brickSlab.name=Double Basalt Brick Slab
+tile.BasaltDoubleSlab.polished_brickSlab.name=Double Polished Basalt Brick Slab
+tile.BasaltDoubleSlab.smoothSlab.name=Double Smooth Basalt Slab
+tile.BasaltDoubleSlab.polished_smoothSlab.name=Double Smooth Polished Basalt Slab
+
+tile.BasaltStairs.name=Basalt Stairs
+tile.PolishedBasaltStairs.name=Polished Basalt Stairs
+tile.BasaltBrickStairs.name=Basalt Brick Stairs
+tile.PolishedBasaltBrickStairs.name=Polished Basalt Brick Stairs
+tile.SmoothBasaltStairs.name=Smooth Basalt Stairs
+tile.PolishedSmoothBasaltStairs.name=Polished Smooth Basalt Stairs
+
+tile.BasaltWall_default.name=Basalt Wall
+tile.BasaltWall_polished.name=Polished Basalt Wall
+tile.BasaltWall_brick.name=Basalt Brick Wall
+tile.BasaltWall_polished_brick.name=Polished Basalt Brick Wall
+tile.BasaltWall_smooth.name=Smooth Basalt Wall
+tile.BasaltWall_polished_smooth.name=Polished Smooth Basalt Wall
+
+tile.RedNetherbrickFence.name=Red Nether Brick Fence
+tile.WarpedNetherbrickFence.name=Warped Nether Brick Fence
+tile.FoxfireNetherbrickFence.name=Foxfire Nether Brick Fence
+
+tile.MagmaBlock_netherrack.name=Magmatic Netherrack
+
+tile.NetherCrystal_white.name=White Nether Crystal
+tile.NetherCrystal_blue.name=Blue Nether Crystal
+tile.NetherCrystal_green.name=Green Nether Crystal
+tile.NetherCrystal_yellow.name=Yellow Nether Crystal
+tile.NetherCrystal_magenta.name=Magenta Nether Crystal
+
+tile.Gloomstone.name=Gloomstone
+
+tile.QuartzBricks_smooth.name=Smooth Quartz Block
+tile.QuartzBricks_void.name=Block of Void Quartz
+tile.QuartzBricks_voidchiseled.name=Chiseled Void Quartz
+tile.QuartzBricks_voidbricks.name=Void Quartz Bricks
+tile.QuartzBricks_voidsmooth.name=Smooth Void Quartz
+
+tile.QuartzPillar_chiseled.name=Chiseled Quartz Pillar
+tile.QuartzPillar_void.name=Void Quartz Pillar
+tile.QuartzPillar_voidchiseled.name=Chiseled Void Quartz Pillar
+
+tile.QuartzSingleSlab.brickSlab.name=Quartz Brick Slab
+tile.QuartzSingleSlab.smoothSlab.name=Smooth Quartz Slab
+tile.QuartzSingleSlab.voidSlab.name=Void Quartz Slab
+tile.QuartzSingleSlab.voidbrickSlab.name=Void Quartz Brick Slab
+tile.QuartzSingleSlab.voidsmoothSlab.name=Smooth Void Quartz Slab
+
+tile.QuartzDoubleSlab.brickSlab.name=Quartz Brick Double Slab
+tile.QuartzDoubleSlab.smoothSlab.name=Smooth Quartz Double Slab
+tile.QuartzDoubleSlab.voidSlab.name=Void Quartz Double Slab
+tile.QuartzDoubleSlab.voidbrickSlab.name=Void Quartz Brick Double Slab
+tile.QuartzDoubleSlab.voidsmoothSlab.name=Smooth Void Quartz Double Slab
+
+tile.QuartzBrickStairs.name=Quartz Brick Stairs
+tile.QuartzSmoothStairs.name=Smooth Quartz Stairs
+tile.QuartzVoidStairs.name=Void Quartz Stairs
+tile.QuartzVoidSmoothStairs.name=Smooth Void Quartz Stairs
+tile.QuartzVoidBrickStairs.name=Void Quartz Brick Stairs
+
+tile.QuartzWall_chiseled.name=Chiseled Quartz Wall
+tile.QuartzWall_brick.name=Quartz Brick Wall
+tile.QuartzWall_smooth.name=Smooth Quartz Wall
+tile.QuartzWall_voidchiseled.name=Chiseled Void Quartz Wall
+tile.QuartzWall_voidbrick.name=Void Quartz Brick Wall
+tile.QuartzWall_voidsmooth.name=Smooth Void Quartz Wall
+
+tile.CryingBlackstone.name=Crying Blackstone
+
+tile.VoidQuartzOre_default.name=Void Quartz Ore
+tile.VoidQuartzOre_netherrack.name=Netherrack Void Quartz Ore
+
+tile.ShadowTorch.name=Shadow Torch
+
+tile.ShadowFire.name=Shadow Fire
+
+tile.SporeCushion_crimson.name=Crimson Spore Cushion
+tile.SporeCushion_warped.name=Warped Spore Cushion
+tile.SporeCushion_foxfire.name=Foxfire Spore Cushion
+
+tile.CrimsonBarrel.name=Crimson Barrel
+tile.WarpedBarrel.name=Warped Barrel
+tile.FoxfireBarrel.name=Foxfire Barrel
+
+tile.CrimsonChest.name=Crimson Chest
+tile.WarpedChest.name=Warped Chest
+tile.FoxfireChest.name=Foxfire Chest
+
+tile.BoneTorch.name=Bone Torch
+tile.SoulBoneTorch.name=Soul Bone Torch
+tile.FoxfireBoneTorch.name=Foxfire Bone Torch
+tile.ShadowBoneTorch.name=Shadow Bone Torch
+
+tile.NetherBookshelf_crimson.name=Crimson Bookshelf
+tile.NetherBookshelf_warped.name=Warped Bookshelf
+tile.NetherBookshelf_foxfire.name=Foxfire Bookshelf
+
+tile.NetherCraftingTable_crimson.name=Crimson Crafting Table
+tile.NetherCraftingTable_warped.name=Warped Crafting Table
+tile.NetherCraftingTable_foxfire.name=Foxfire Crafting Table
+
+tile.FurnaceBlackstoneLit.name=Blackstone Furnace
+tile.FurnaceBlackstone.name=Blackstone Furnace
+
+tile.PotPlants_crimson_roots.name=Pot Plant Crimson Roots
+tile.PotPlants_warped_roots.name=Pot Plant Warped Roots
+tile.PotPlants_knotty_roots.name=Pot Plant Knotty Roots
+tile.PotPlants_spiked_weed.name=Pot Plant Spiked Weed
+
+tile.NetherBeacon.name=Nether Beacon
+
+tile.netherlicious.crimsonSignStanding.name=Crimison Sign
+tile.netherlicious.crimsonSignWall.name=Crimison Sign
+tile.netherlicious.warpedSignStanding.name=Warped Sign
+tile.netherlicious.warpedSignWall.name=Warped Sign
+tile.netherlicious.foxfireSignStanding.name=Foxfire Sign
+tile.netherlicious.foxfireSignWall.name=Foxfire Sign
+
+###
+Chains
+###
+
+tile.Chain.name=Chain
+tile.ChainPowered.name=Chain
+
+tile.ChainGold.name=Golden Chain
+tile.ChainPoweredGold.name=Golden Chain
+
+tile.ChainEfrine.name=Efrine Chain
+tile.ChainPoweredEfrine.name=Efrine Chain
+
+###
+Lanterns
+###
+
+tile.SoulLantern.name=Soul Lantern
+tile.SoulLanternGold.name=Golden Soul Lantern
+tile.SoulLanternEfrine.name=Efrine Soul Lantern
+
+tile.FoxfireLantern.name=Foxfire Lantern
+tile.FoxfireLanternGold.name=Golden Foxfire Lantern
+tile.FoxfireLanternEfrine.name=Efrine Foxfire Lantern
+
+tile.GlowstoneLantern.name=Glowstone Lantern
+tile.GlowstoneLanternGold.name=Golden Glowstone Lantern
+tile.GlowstoneLanternEfrine.name=Efrine Glowstone Lantern
+
+tile.RedstoneLantern.name=Redstone Lantern
+tile.RedstoneLanternGold.name=Golden Redstone Lantern
+tile.RedstoneLanternEfrine.name=Efrine Redstone Lantern
+
+tile.RedstoneLanternOn.name=Redstone Lantern
+tile.RedstoneLanternGoldOn.name=Golden Redstone Lantern
+tile.RedstoneLanternEfrineOn.name=Efrine Redstone Lantern
+
+tile.EmptyLantern.name=Empty Lantern
+tile.EmptyLanternGold.name=Golden Empty Lantern
+tile.EmptyLanternEfrine.name=Efrine Empty Lantern
+
+tile.Lantern.name=Lantern
+tile.LanternGold.name=Golden Lantern
+tile.LanternEfrine.name=Efrine Lantern
+
+tile.ShadowLantern.name=Shadow Lantern
+tile.ShadowLanternGold.name=Golden Shadow Lantern
+tile.ShadowLanternEfrine.name=Efrine Shadow Lantern
+
+#############
+Crop Blocks
+#############
+
+tile.GhastlyGourd.name=Ghastly Gourd
+tile.InfernalReed.name=Infernal Reed
+tile.SoulFarmland.name=Soul Farmland
+tile.Sprouts_swamp.name=Swamp Sprouts
+tile.GhastlyGourdStem.name=Ghastly Gourd Stem
+tile.DevilishMaize.name=Devilish Maize
+tile.HellderBerryBush.name=Hellderberry Bush
+tile.CrimsonWartCrop.name=Crimson Wart
+tile.WarpedWartCrop.name=Warped Wart
+tile.SoggyWartCrop.name=Soggy Wart
+tile.AbyssalOat.name=Abyssal Oat
+
+
+
+
+#############
+Items
+#############
+
+item.crimsonSign.name=Crimson Sign
+item.warpedSign.name=Warped Sign
+item.foxfireSign.name=Foxfire Sign
+
+item.dye.black.name=Black Dye
+
+item.Pigstep.name=Music Disc
+Pigstep.desc=Lena Raine - Pigstep
+
+item.Rubedo.name=Music Disc
+Rubedo.desc=Lena Raine - Rubedo
+
+item.SoBelow.name=Music Disc
+SoBelow.desc=Lena Raine - So Below
+
+item.Chrisopoeia.name=Music Disc
+Chrisopoeia.desc=Lena Raine - Chrysopoeia
+
+item.FoxfirePowder.name=Foxfire Powder
+
+item.SpectralBucket.name=Spectral Dew Bucket
+
+item.Nugget.iron_nugget.name=Iron Nugget
+item.Nugget.efrine_nugget.name=Efrine Nugget
+
+item.Ingot.efrine_ingot.name=Efrine Ingot
+
+item.GloomstoneDust.name=Gloomstone Dust
+
+item.FungalTreat.name=Fungal Treat
+
+item.FlintAndSteelSoul.name=Soul Flint and Steel
+item.FlintAndSteelFoxfire.name=Foxfire Flint and Steel
+item.FlintAndSteelShadow.name=Shadow Flint and Steel
+
+item.VoidQuartzItem.name=Void Quartz
+
+item.Materials.shield_scrap.name=Shield Scrap
+item.Materials.spore_membrane.name=Spore Membrane
+
+###################
+Crop and Seed Items
+###################
+
+item.InfernalReedItem_infernal_reed.name=Infernal Reeds
+item.WartItem.crimson_wart.name=Crimson Wart
+item.WartItem.warped_wart.name=Warped Wart
+item.WartItem.soggy_wart.name=Soggy Wart
+
+item.DevilishMaizeItem.name=Devilish Maize
+item.HellderBerryItem.name=Hellderberry
+item.AbyssalOatItem.name=Abyssal Oat
+
+
+item.GhastlyGourdSeeds.name=Ghastly Gourd Seeds
+item.DevilishMaizeSeeds.name=Devilish Maize Seeds
+item.HellderBerrySeeds.name=Hellderberry Seed
+item.AbyssalOatSeeds.name=Abyssal Oat Seeds
+item.DevilishPopcornRaw.name=Maize Seed filled Bowl
+item.DevilishPopcorn.name=Devilish Popcorn
+item.StewCrimson.name=Crimson Stew
+item.StewWarped.name=Warped Stew
+item.StewFoxfire.name=Foxfire Stew
+item.JuiceHellderberry.name=Hellderberry Juice
+item.CookieHellderberry.name=Hellderberry Cookie
+item.AbyssalBread.name=Abyssal Bread
+
+
+###################
+Food
+###################
+
+item.GhastlyPie.name=Ghastly Pie
+item.RoastedWart.name=Roasted Wart
+item.RoastedDevilishMaize.name=Roasted Devilish Maize
+
+item.StriderFlankRaw.name=Raw Strider Flank
+item.StriderFlankCooked.name=Strider Steak
+
+
+###################
+Armor and Tools
+###################
+
+item.EfrineHelmet.name=Efrine Helmet
+item.EfrineChestPlate.name=Efrine Chestplate
+item.EfrineLeggings.name=Efrine Leggings
+item.EfrineBoots.name=Efrine Boots
+
+item.HeavyBlazeHelmet.name=Heavy Blaze Helmet
+item.HeavyBlazeChestPlate.name=Heavy Blaze Chestplate
+item.HeavyBlazeLeggings.name=Heavy Blaze Leggings
+item.HeavyBlazeBoots.name=Heavy Blaze Boots
+
+item.EfrineShovel.name=Efrine Shovel
+item.EfrinePickaxe.name=Efrine Pickaxe
+item.EfrineAxe.name=Efrine Axe
+item.EfrineHoe.name=Efrine Hoe
+item.EfrineSword.name=Efrine Sword
+
+
+#############
+Chat Messages
+#############
+
+chat.bedSpawnSet=Your spawn is set to this location, Only break the Anchor after setting a new Spawn Point in the Nether. If you get Stuck, change the config.
+chat.bedSpawnFail=You need to allow Nether respawnig in the config, to set your Spawnpoint.
+chat.bedSpawnWrongDim=The Anchor only works in the Nether.
+chat.bedSpawnFailWrongDim=You need to allow Nether respawnig and need to be in the Nether.
+
+
+#############
+Tooltip
+#############
+
+tooltip.respawnAnchor.desc=The Anchor can only set your Spawnpoint in the Nether.
+
+tooltip.seed.desc=Plant on Soul Farmland
+
+tooltip.foxfirepowder.desc=Ignites Foxfires
+
+tooltip.spiked_weed.desc=Hurts when not wearing Boots and Pants
+
+tooltip.berryseed.desc=Plant on Soul Farmland or Nylium
+
+tooltip.hellderberry.desc=The Father of Lies smelt of those
+
+tooltip.efrine.desc=Feels cold and soft. Items and Blocks made with this, won't burn.
+tooltip.efrineItem.desc=Even Lava won't burn this
+
+tooltip.fungaltreat.desc=Used to tame Striders and Hoglins
+
+tooltip.shadowIgniter.desc=Ignite on Nether Quartz Ore to transform it.
+
+tooltip.efrinearmor.desc=A full Set will make you fireproof.
+tooltip.heavyblazearmor.desc=Very protective but heavy. A full Set will make you fireproof.
+tooltip.efrinetool.desc=This Tool is fireproof.
+
+tooltip.sporecushion.desc=A soft cushion that will negate all fall damage
+
+tooltip.pot_plant.desc=Would look nice in a Flower Pot
+
+#############
+Container
+#############
+
+container.netherlicious.barrel=Barrel
+
+
+#############
+Achievements
+#############
+
+achievement.Nether=A hot new Place
+achievement.Nether.desc=Travel from the Overworld to the Nether
+  
+achievement.CryingObsidian=Who is Cutting Onions?
+achievement.CryingObsidian.desc=Obtain Crying Obsidian
+
+achievement.RespawnAnchor=Not Quite "Nine" Lives
+achievement.RespawnAnchor.desc=Set your spawn with a Respawn Anchor
+
+achievement.CrimsonForest=A red Forest in a red World
+achievement.CrimsonForest.desc=Visit the Crimson Forest
+
+achievement.WarpedForest=Not your ordinary Forest
+achievement.WarpedForest.desc=Visit the Warped Forest
+
+achievement.SoulsandValley=That's no Sandy Beach
+achievement.SoulsandValley.desc=Visit the Soul Sand Valley
+
+achievement.BasaltDeltas=Chillin in the Deltas
+achievement.BasaltDeltas.desc=Visit the Basalt Deltas
+
+achievement.PigStep=Party with the Pigmen
+achievement.PigStep.desc=Put a "Pigstep Music Disc" in the Jukebox
+
+achievement.ShroomLight=Who needs Glowstone?
+achievement.ShroomLight.desc=Obtain a Shroomlight
+
+achievement.Stem=Getting Wood...again?
+achievement.Stem.desc=Attack a huge fungi until a stemblock pops out
+
+achievement.Stripped_Stem=Naked Wood
+achievement.Stripped_Stem.desc=Free a stemblock from it's bark using an axe
+
+achievement.OverworldGhast=Uneasy Alliance
+achievement.OverworldGhast.desc=Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it
+
+achievement.Rubedo=Sound of the Wastes
+achievement.Rubedo.desc=Put a "Rubedo Music Disc" in the Jukebox
+
+achievement.SoBelow=Melancholic Melody
+achievement.SoBelow.desc=Put a "So Below Music Disc" in the Jukebox
+
+achievement.Chrisopoeia=Chilling Vibes
+achievement.Chrisopoeia.desc=Put a "Chrysopoeia Music Disc" in the Jukebox
+
+achievement.FoxfireSwamp=A soggy place
+achievement.FoxfireSwamp.desc=Visit the Foxfire Swamp
+
+achievement.Farmland=The next Step 
+achievement.Farmland.desc=Till some Soul Sand or Soul Soil to make it useable for farming
+
+achievement.CrystallineCrag=Glowing Crystals
+achievement.CrystallineCrag.desc=Visit the Crystalline Crag
+
+achievement.AbyssalShadowland=The dark depths of the Nether
+achievement.AbyssalShadowland.desc=Visit the Abyssal Shadowland
+
+achievement.RupturedChasm=Travelers Nightmare
+achievement.RupturedChasm.desc=Visit the Ruptured Chasm
+
+achievement.HoglinTame="Pig" Farmer
+achievement.HoglinTame.desc=Tame a Hoglin using Fungal Treats to make farming easier
+
+achievement.ZoglinHeal=Zoglin Purification
+achievement.ZoglinHeal.desc=Throw a weakness potion on a Zoglin and give it a golden Carrot to start healing them
+
+achievement.VoidQuartzTransform=Magical Shadow Fire
+achievement.VoidQuartzTransform.desc=Ignite a Shadow Fire on Nether Quartz Ore to transform it into Void Quartz Ore
+
+#############
+Entities
+#############
+
+entity.netherlicious.Strider.name=Strider
+entity.netherlicious.Hoglin.name=Hoglin
+entity.netherlicious.Zoglin.name=Zoglin
+entity.netherlicious.BlazeKnight.name=Blaze Knight
+
+entity.netherlicious.SporeCrimson.name=Crimson Spore
+entity.netherlicious.SporeWarped.name=Warped Spore
+entity.netherlicious.SporeFoxfire.name=Foxfire Spore
+
+entity.netherlicious.Ember.name=Ember
+entity.netherlicious.Smolder.name=Smolder
+entity.netherlicious.Ashling.name=Ashling
+
+entity.netherlicious.EmberSoul.name=Soul Ember
+entity.netherlicious.EmberFoxfire.name=Foxfire Ember
+entity.netherlicious.EmberShadow.name=Shadow Ember
+
+entity.netherlicious.Skull.name=Skull
+
+entity.netherlicious.CrimsonRay.name=Crimson Spore Ray
+entity.netherlicious.WarpedRay.name=Warped Spore Ray
+entity.netherlicious.FoxfireRay.name=Foxfire Spore Ray
+
+
+
+#######################################################################
+Version 3.0.0 Additions
+#######################################################################
+
+
+#######################
+Blocks
+#######################
+
+tile.Blackstone_tile.name=Blackstone Tiles
+tile.Blackstone_cross.name=Blackstone Cross
+tile.Blackstone_path.name=Blackstone Path
+
+tile.NewNetherbrick1_chiseled.name=Smooth Chiseled Nether Bricks
+tile.NewNetherbrick1_broken.name=Weathered Nether Bricks
+tile.NewNetherbrick1_cross.name=Nether Brick Cross
+tile.NewNetherbrick1_smooth.name=Smooth Nether Bricks
+tile.NewNetherbrick1_tiles.name=Nether Brick Tiles
+
+tile.NewNetherbrick1_chiseled_red.name=Smooth Red Chiseled Nether Bricks
+tile.NewNetherbrick1_broken_red.name=Weathered Red Nether Bricks
+tile.NewNetherbrick1_cross_red.name=Red Nether Brick Cross
+tile.NewNetherbrick1_smooth_red.name=Smooth Red Nether Bricks
+tile.NewNetherbrick1_tiles_red.name=Red Nether Brick Tiles
+
+tile.NewNetherbrick1_chiseled_warped.name=Smooth Warped Chiseled Nether Bricks
+tile.NewNetherbrick1_broken_warped.name=Weathered Warped Nether Bricks
+tile.NewNetherbrick1_cross_warped.name=Warped Nether Brick Cross
+tile.NewNetherbrick1_smooth_warped.name=Smooth Warped Nether Bricks
+tile.NewNetherbrick1_tiles_warped.name=Warped Nether Brick Tiles
+
+tile.NewNetherbrick2_chiseled_foxfire.name=Smooth Foxfire Chiseled Nether Bricks
+tile.NewNetherbrick2_broken_foxfire.name=Weathered Foxfire Nether Bricks
+tile.NewNetherbrick2_cross_foxfire.name=Foxfire Nether Brick Cross
+tile.NewNetherbrick2_smooth_foxfire.name=Smooth Foxfire Nether Bricks
+tile.NewNetherbrick2_tiles_foxfire.name=Foxfire Nether Brick Tiles
+
+tile.NewNetherbrick2_black.name=Black Nether Bricks
+tile.NewNetherbrick2_black_cracked.name=Cracked Black Nether Bricks
+tile.NewNetherbrick2_black_chiseled.name=Chiseled Black Nether Bricks
+tile.NewNetherbrick2_chiseled_black.name=Smooth Black Chiseled Nether Bricks
+tile.NewNetherbrick2_broken_black.name=Weathered Black Nether Bricks
+tile.NewNetherbrick2_cross_black.name=Black Nether Brick Cross
+tile.NewNetherbrick2_smooth_black.name=Smooth Black Nether Bricks
+tile.NewNetherbrick2_tiles_black.name=Black Nether Brick Tiles
+
+tile.BrickSingleSlab.blackSlab.name=Black Nether Brick Slab
+tile.BrickDoubleSlab.blackSlab.name=Double Black Nether Brick Slab
+tile.BrickSingleSlab2.defaultSlab.name=Smooth Nether Brick Slab
+tile.BrickSingleSlab2.redSlab.name=Smooth Red Nether Brick Slab
+tile.BrickSingleSlab2.warpedSlab.name=Smooth Warped Brick Slab
+tile.BrickSingleSlab2.foxfireSlab.name=Smooth Foxfire Nether Brick Slab
+tile.BrickSingleSlab2.blackSlab.name=Smooth Black Nether Brick Slab
+tile.BrickDoubleSlab2.defaultSlab.name=Double Smooth Nether Brick Slab
+tile.BrickDoubleSlab2.redSlab.name=Double Smooth Red Nether Brick Slab
+tile.BrickDoubleSlab2.warpedSlab.name=Double Smooth Warped Nether Brick Slab
+tile.BrickDoubleSlab2.foxfireSlab.name=Double Smooth Foxfire Nether Brick Slab
+tile.BrickDoubleSlab2.blackSlab.name=Double Smooth Black Nether Brick Slab
+
+tile.BlackNetherbrickStairs.name=Black Nether Brick Stairs
+tile.SmoothNetherbrickStairs.name=Smooth Nether Brick Stairs
+tile.SmoothRedNetherbrickStairs.name=Smooth Red Nether Brick Stairs
+tile.SmoothWarpedNetherbrickStairs.name=Smooth Warped Nether Brick Stairs
+tile.SmoothFoxfireNetherbrickStairs.name=Smooth Foxfire Nether Brick Stairs
+tile.SmoothBlackNetherbrickStairs.name=Smooth Black Nether Brick Stairs
+
+tile.NetherbrickWall_broken.name=Weathered Nether Brick Wall
+tile.NetherbrickWall_smooth.name=Smooth Nether Brick Wall
+tile.NetherbrickWall_red_broken.name=Weathered Red Nether Brick Wall
+tile.NetherbrickWall_red_smooth.name=Smooth Red Nether Brick Wall
+tile.NetherbrickWall_warped_broken.name=Weathered Warped Nether Brick Wall
+tile.NetherbrickWall_warped_smooth.name=Smooth Warped Nether Brick Wall
+tile.NetherbrickWall_foxfire_broken.name=Weathered Foxfire Nether Brick Wall
+tile.NetherbrickWall_foxfire_smooth.name=Smooth Foxfire Nether Brick Wall
+tile.NetherbrickWall_black.name=Black Nether Brick Wall
+tile.NetherbrickWall_black_broken.name=Weathered Black Nether Brick Wall
+tile.NetherbrickWall_black_smooth.name=Smooth Black Nether Brick Wall
+
+tile.BlackNetherbrickFence.name=Black Nether Brick Fence
+
+tile.Wartblock_nether.name=Nether Wart Block
+
+tile.Mossblock_crimson.name=Crimson Moss Block
+tile.Mossblock_warped.name=Warped Moss Block
+tile.Mossblock_foxfire.name=Foxfire Moss Block
+
+tile.CrimsonMoss.name=Sheet of Crimson Moss
+tile.WarpedMoss.name=Sheet of Warped Moss
+tile.FoxfireMoss.name=Sheet of Foxfire Moss
+
+tile.Roots_crimson_shrub.name=Crimson Shrub
+tile.Roots_warped_shrub.name=Warped Shrub
+tile.Roots_foxfire.name=Soggy Roots
+
+tile.NetherGrass_crimson_grass.name=Crimson Grass
+tile.NetherGrass_warped_grass.name=Warped Grass
+tile.NetherGrass_foxfire_grass.name=Swamp Grass
+tile.NetherGrass_withered_grass.name=Withered Grass
+
+tile.Plants2_crimson_dew.name=Crimson Dew
+tile.Plants2_warped_dew.name=Warped Dew
+tile.Plants2_foxfire_dew.name=Foxfire Dew
+tile.Plants2_crimson_fern.name=Crimson Fern
+tile.Plants2_warped_fern.name=Warped Fern
+tile.Plants2_foxfire_fern.name=Foxfire Fern
+
+tile.GroundCover_crimson.name=Crimson Growth
+tile.GroundCover_warped.name=Warped Growth
+tile.GroundCover_foxfire.name=Foxfire Growth
+
+tile.GloomHibiscus_default.name=Gloom Hibiscus
+
+tile.NetherFlowerShrub_crimson_bluet.name=Crimson Bluet
+tile.NetherFlowerShrub_torch_flower.name=Torch Flower
+tile.NetherFlowerShrub_warped_poppy.name=Warped Poppy
+tile.NetherFlowerShrub_traumalia.name=Traumalia
+
+tile.WitherRose_bone.name=Bone Rose
+tile.WitherRose_soul.name=Soul Rose
+
+tile.DoublePlants_crimson_dew.name=Large Crimson Dew
+tile.DoublePlants_warped_dew.name=Large Warped Dew
+tile.DoublePlants_foxfire_dew.name=Large Foxfire Dew
+tile.DoublePlants_crimson_fern.name=Large Crimson Fern
+tile.DoublePlants_warped_fern.name=Large Warped Fern
+tile.DoublePlants_foxfire_fern.name=Large Foxfire Fern
+
+tile.PotPlants_crimson_shrub.name=Pot Plant Crimson Shrub
+tile.PotPlants_warped_shrub.name=Pot Plant Warped Shrub
+tile.PotPlants_foxfire_roots.name=Pot Plant Soggy Roots
+
+tile.CarvedGourd.name=Carved Ghastly Gourd
+tile.GourdLantern.name=Ghastly Lantern
+tile.GourdLanternSoul.name=Ghastly Soul Lantern
+tile.GourdLanternFoxfire.name=Ghastly Foxfire Lantern
+tile.GourdLanternShadow.name=Ghastly Shadow Lantern
+
+tile.Ash.name=Ash Block
+
+tile.NetherCrystal_white_bud.name=Budding White Nether Crystal
+tile.NetherCrystal_blue_bud.name=Budding Blue Nether Crystal
+tile.NetherCrystal_green_bud.name=Budding Green Nether Crystal
+tile.NetherCrystal_yellow_bud.name=Budding Yellow Nether Crystal
+tile.NetherCrystal_magenta_bud.name=Budding Magenta Nether Crystal
+
+tile.CrystalClusterWhite_bud.name=Small White Crystal Cluster
+tile.CrystalClusterWhite_cluster.name=White Crystal Cluster
+tile.CrystalClusterBlue_bud.name=Small Blue Crystal Cluster
+tile.CrystalClusterBlue_cluster.name=Blue Crystal Cluster
+tile.CrystalClusterGreen_bud.name=Small Green Crystal Cluster
+tile.CrystalClusterGreen_cluster.name=Green Crystal Cluster
+tile.CrystalClusterYellow_bud.name=Small Yellow Crystal Cluster
+tile.CrystalClusterYellow_cluster.name=Yellow Crystal Cluster
+tile.CrystalClusterMagenta_bud.name=Small Magenta Crystal Cluster
+tile.CrystalClusterMagenta_cluster.name=Magenta Crystal Cluster
+
+tile.CrystalLamp_white.name=White Crystal Lamp
+tile.CrystalLamp_blue.name=Blue Crystal Lamp
+tile.CrystalLamp_green.name=Green Crystal Lamp
+tile.CrystalLamp_yellow.name=Yellow Crystal Lamp
+tile.CrystalLamp_magenta.name=Magenta Crystal Lamp
+
+tile.CrystalLamp_redstone_off_white.name=White Redstone Crystal Lamp
+tile.CrystalLamp_redstone_off_blue.name=Blue Redstone Crystal Lamp
+tile.CrystalLamp_redstone_off_green.name=Green Redstone Crystal Lamp
+tile.CrystalLamp_redstone_off_yellow.name=Yellow Redstone Crystal Lamp
+tile.CrystalLamp_redstone_off_magenta.name=Magenta Redstone Crystal Lamp
+
+tile.CrystalLamp_redstone_on_white.name=White Redstone Crystal Lamp
+tile.CrystalLamp_redstone_on_blue.name=Blue Redstone Crystal Lamp
+tile.CrystalLamp_redstone_on_green.name=Green Redstone Crystal Lamp
+tile.CrystalLamp_redstone_on_yellow.name=Yellow Redstone Crystal Lamp
+tile.CrystalLamp_redstone_on_magenta.name=Magenta Redstone Crystal Lamp
+
+tile.TintedGlass_white.name=White Tinted Glass
+tile.TintedGlass_blue.name=Blue Tinted Glass
+tile.TintedGlass_green.name=Green Tinted Glass
+tile.TintedGlass_yellow.name=Yellow Tinted Glass
+tile.TintedGlass_magenta.name=Magenta Tinted Glass
+
+tile.BlackstoneVent_base_big.name=Big Blackstone Vent Base
+tile.BlackstoneVent_base_middle.name=Medium Blackstone Vent Base
+tile.BlackstoneVent_base_small.name=Small Blackstone Vent Base
+tile.BlackstoneVent_vent.name=Blackstone Vent
+tile.BlackstoneVent_vent_smoke.name=Blackstone Smoke Vent
+tile.BlackstoneVent_vent_lava.name=Blackstone Magma Vent
+tile.BlackstoneVent_vent_flame.name=Blackstone Flame Vent
+tile.BlackstoneVent_vent_flame_soul.name=Blackstone Soul Vent
+tile.BlackstoneVent_vent_flame_foxfire.name=Blackstone Foxfire Vent
+tile.BlackstoneVent_vent_flame_shadow.name=Blackstone Shadow Vent
+
+tile.BasaltVent_base_big.name=Big Basalt Vent Base
+tile.BasaltVent_base_middle.name=Medium Basalt Vent Base
+tile.BasaltVent_base_small.name=Small Basalt Vent Base
+tile.BasaltVent_vent.name=Basalt Vent
+tile.BasaltVent_vent_smoke.name=Basalt Smoke Vent
+tile.BasaltVent_vent_lava.name=Basalt Magma Vent
+tile.BasaltVent_vent_flame.name=Basalt Flame Vent
+tile.BasaltVent_vent_flame_soul.name=Basalt Soul Vent
+tile.BasaltVent_vent_flame_foxfire.name=Basalt Foxfire Vent
+tile.BasaltVent_vent_flame_shadow.name=Basalt Shadow Vent
+
+tile.BoneBlock_cracked.name=Weathered Bone Block
+
+#######################
+Items
+#######################
+
+item.dye.blue.name=Blue Dye
+item.dye.white.name=White Dye
+
+item.CrystalShard.crystal_shard_white.name=White Crystal Shard
+item.CrystalShard.crystal_shard_blue.name=Blue Crystal Shard
+item.CrystalShard.crystal_shard_green.name=Green Crystal Shard
+item.CrystalShard.crystal_shard_yellow.name=Yellow Crystal Shard
+item.CrystalShard.crystal_shard_magenta.name=Magenta Crystal Shard
+
+
+#######################
+Tooltips
+#######################
+
+tooltip.pot_plant_grow.desc=Put it in a Flower Pot, or grow with Bone Meal
+tooltip.carved.desc=Right Click with Shears to carve
+tooltip.soil.desc=Right Click with a shovel to change the Soil
+
+#######################
+Achievements
+#######################
+
+achievement.SpookyFace=Ghastly Face
+achievement.SpookyFace.desc=Carve a Ghastly Gourd with Shears
+
+achievement.PiglinHeal=Piglinification
+achievement.PiglinHeal.desc=Heal a Zombified Piglin with a weakness potion and a golden apple
+
+#######################
+Entities
+#######################
+
+entity.netherlicious.Piglin.name=Piglin
+entity.netherlicious.ZombiePiglin.name=Zombified Piglin
+
+
+
+
+
+#######################################################################
+Version 3.2.0 Additions
+#######################################################################
+
+
+#######################
+Blocks
+#######################
+
+tile.NetherrackVent_base_big.name=Big Netherrack Vent Base
+tile.NetherrackVent_base_middle.name=Medium Netherrack Vent Base
+tile.NetherrackVent_base_small.name=Small Netherrack Vent Base
+tile.NetherrackVent_vent.name=Netherrack Vent
+tile.NetherrackVent_vent_smoke.name=Netherrack Smoke Vent
+tile.NetherrackVent_vent_lava.name=Netherrack Magma Vent
+tile.NetherrackVent_vent_flame.name=Netherrack Flame Vent
+tile.NetherrackVent_vent_flame_soul.name=Netherrack Soul Vent
+tile.NetherrackVent_vent_flame_foxfire.name=Netherrack Foxfire Vent
+tile.NetherrackVent_vent_flame_shadow.name=Netherrack Shadow Vent
+
+#######################
+Items
+#######################
+
+item.InfiniteAmethyst.name=Music Disc
+
+item.GlassesWhite.name=White Crystal Glasses
+item.GlassesBlue.name=Blue Crystal Glasses
+item.GlassesGreen.name=Green Crystal Glasses
+item.GlassesYellow.name=Yellow Crystal Glasses
+item.GlassesMagenta.name=Magenta Crystal Glasses
+item.GlassesDealmaker.name=Dealmaker
+
+#######################
+Tooltips
+#######################
+
+InfiniteAmethyst.desc=Lena Raine - Infinite Amethyst
+
+tooltip.glasses.desc=Allows you to see through lava
+tooltip.dealmaker.desc=Now's your chance to be a BIG SHOT!
+
+#######################
+Achievements
+#######################
+
+achievement.InfiniteAmethyst=Melody of the crystalline depths
+achievement.InfiniteAmethyst.desc=Put an "Infinite Amethyst Music Disc" in the Jukebox
+
+
+#######################################################################
+Version 3.2.1 Additions
+#######################################################################
+
+
+#######################
+Blocks
+#######################
+
+tile.BrittleBedrock.name=Brittle Bedrock
+
+#######################
+Entities
+#######################
+
+entity.netherlicious.SkullWither.name=Wither Skull
